@@ -5,8 +5,8 @@ to the console (the panel on the right)
 */
 
 console.log("Hello, World!");
-console.log("Be mine!")
-
+console.log("Day 1 of learning");
+console.log("way to go");
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
